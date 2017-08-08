@@ -1,0 +1,7 @@
+print("hello world")
+print("hi my name is jack.")
+print("jack is the best.")
+print("thank you dad and mom.")
+print("Do you know what got roasted?")
+print("What?")
+print("Roasted chicken.")
